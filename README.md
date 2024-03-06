@@ -6,6 +6,7 @@
 - 🔭 Atualmente Policial Militar do Estado de São Paulo
 - 🌱 Foco dos estudos em Java, Angular, HTML, CSS e POO
 - 📫 Fale comigo por lucaseneasmarco@gmail.com
+- 👋 Acesse meu portifólio https://lucaseneas.github.io/meu-portifolio
 
 
 <div style="display: inline_block"><br>
