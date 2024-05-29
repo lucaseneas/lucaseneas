@@ -1,16 +1,16 @@
 ### Sejam Bem Vindos 👋
 
 - 🤓 Meu nome é lucas eneas
-- 🎉 Tenho 23 anos
-- 🏤 Cursando Analise e desenvolvimento de sistemas
-- 🔭 Atualmente Policial Militar do Estado de São Paulo
-- 🌱 Foco dos estudos em Java, Angular, HTML, CSS e POO
-- 📫 Fale comigo por lucaseneasmarco@gmail.com
+- 🎉 Tenho 24 anos
+- 🏤 Formado em Analise e desenvolvimento de sistemas
+- 🔭 Atualmente Trabalhando no Setor de Tecnologia da Policia Militar do Estado de São Paulo
+- 🌱 Foco dos estudos em Java, JavaScript, HTML, CSS e React.js
+- 📫 Fale comigo por lucaseneasmarco@gmail.com ou (11) 9890068301
 - 👋 Acesse meu portifólio https://lucaseneas.github.io/meu-portifolio
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
