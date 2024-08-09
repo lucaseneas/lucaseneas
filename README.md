@@ -6,7 +6,7 @@
 - 🔭 Atualmente Trabalhando no Setor de Tecnologia da Policia Militar do Estado de São Paulo
 - 🌱 Foco dos estudos em Java, JavaScript, HTML, CSS e React.js
 - 📫 Fale comigo por lucaseneasmarco@gmail.com ou (11) 9890068301
-- 👋 Acesse meu portifólio https://lucaseneas.github.io/meu-portifolio
+- 👋 Acesse meu portifólio https://lucaseneas.github.io/meu-portfolio
 
 
 <div style="display: inline_block"><br>
