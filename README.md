@@ -1,12 +1,11 @@
 ### Sejam Bem Vindos 👋
 
 - 🤓 Meu nome é lucas eneas
-- 🎉 Tenho 24 anos
+- 🎉 Tenho 26 anos
 - 🏤 Formado em Analise e desenvolvimento de sistemas
-- 🔭 Atualmente Trabalhando no Setor de Tecnologia da Policia Militar do Estado de São Paulo
-- 🌱 Foco dos estudos em Java, JavaScript, HTML, CSS e React.js
-- 📫 Fale comigo por lucaseneasmarco@gmail.com ou (11) 9890068301
-- 👋 Acesse meu portifólio https://lucaseneas.github.io/meu-portfolio
+- 🌱 Foco dos estudos em Java | Spring | API’s Rest | Azure Cloud
+- 📫 Fale comigo por lucaseneasmarco@gmail.com ou +351 961775710
+- 👋 Acesse meu portifólio https://lucaseneas.github.io/meu-portfolio/
 
 
 <div style="display: inline_block"><br>
